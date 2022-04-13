@@ -10,7 +10,7 @@ replace (
 require (
 	github.com/go-logr/logr v1.2.2
 	github.com/onsi/ginkgo v1.16.5
-	github.com/onsi/gomega v1.18.1
+	github.com/onsi/gomega v1.19.0
 	github.com/pkg/errors v0.9.1
 	github.com/vmware-tanzu/carvel-kapp-controller v0.25.0
 	github.com/vmware-tanzu/carvel-secretgen-controller v0.5.0
@@ -26,7 +26,7 @@ require (
 	k8s.io/utils v0.0.0-20220210201930-3a6ce19ff2f9
 	knative.dev/pkg v0.0.0-20220302134643-d2cdc682d974
 	sigs.k8s.io/cluster-api v1.1.3
-	sigs.k8s.io/cluster-api-provider-vsphere v1.1.0
+	sigs.k8s.io/cluster-api-provider-vsphere v1.1.1
 	sigs.k8s.io/controller-runtime v0.11.1
 )
 
